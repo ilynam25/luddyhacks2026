@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=deLp7Bjusjo
+https://github.com/developerabhi14/ML-Notebooks
+https://github.com/developerabhi14/ML-Notebooks/blob/main/MNIST_Digit_Classification_using_PyTorch.ipynb
+https://docs.pytorch.org/vision/main/generated/torchvision.datasets.EMNIST.html
+https://www.kaggle.com/datasets/crawford/emnist?select=emnist_source_files
+https://www.kaggle.com/code/achintyatripathi/emnist-letter-dataset-97-9-acc-val-acc-91-78
+https://www.youtube.com/watch?v=s2oIQ4-UO-M
+https://github.com/LukeDitria/pytorch_tutorials/blob/main/section04_pytorch_cnn/notebooks/Tutorial_Convolutions.ipynb
+https://github.com/austin-hill/EMNIST-CNN/blob/master/emnist_train.py
